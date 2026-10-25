@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+# made when you run a lesson
+*/data/
+*/adapters/
+*/checkpoints/
+*/train_usage.txt
+01-qwen3.5-text-to-sql/qwen3.5-0.8b-sql/
+02-granite-invoice-to-json/granite-4.0-1b-invoice/
+03-mini-clef-system1-decisions/mini-clef/
+05-kettlebird-wren-brand-voice/runs/
+06-falcon-injection-firewall/runs/
+06-falcon-injection-firewall/train.yaml
+07-olmo-shop-judge-search-relevance/olmo-2-1b-shop-judge/
+08-apertus-bank-budget/runs/
+08-apertus-bank-budget/train.yaml
+09-qwen3.5-grpo-reasoning/runs/
+10-modernbert-complaint-router-system1/modernbert-complaint-router/
+xcuserdata/

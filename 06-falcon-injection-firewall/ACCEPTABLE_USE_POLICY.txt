@@ -1,0 +1,12 @@
+Acceptable Use Policy for the TII Falcon License, copied from https://falconllm.tii.ae/falcon-acceptable-use-policy.html
+(tab "Falcon 3") on 2026-10-18. It may be updated from time to time; the hosted version applies.
+
+TII Falcon 3 License
+December 2024
+FalconLLM.tii.ae
+ACCEPTABLE USE POLICY
+You agree not to use the Relevant Model or any Work or Derivative Work (as such terms are defined in the TII Falcon License):
+In any way that violates any applicable national, federal, state, local or international law or regulation;
+For the purpose of exploiting, harming or attempting to exploit or harm minors and/or living beings in any way;
+To generate or disseminate verifiably false information with the purpose of harming others; and/or
+To defame, disparage or otherwise harass others.

@@ -1,0 +1,18 @@
+[project]
+name = "lesson-05-brand-voice"
+version = "0.1.0"
+description = "Lesson 5 of LLM Fine-Tuning on Mac: a support bot in your brand's voice (MiniCPM5 1B, mlx-tune SFT then DPO)"
+requires-python = ">=3.12,<3.13"
+# mlx-tune needs Python 3.12 or older, so this lesson has its own small environment (the series .venv is Python 3.14).
+dependencies = [
+    "datasets==3.6.0",
+    "huggingface-hub==2.2.0",
+    "ipykernel>=7.4.0",
+    "ipywidgets>=8.1.9",
+    "mlx==0.32.4",
+    "mlx-lm==0.32.2",
+    "mlx-tune==0.6.0",
+    "pandas>=3.0",
+    "tqdm>=4.67",
+    "transformers==5.20.1",
+]
